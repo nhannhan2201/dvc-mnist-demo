@@ -1,9 +1,9 @@
 outs:
-- md5: bb7542c7652196c3e92adf63d953defe
-  size: 82
+- md5: d28160030890ca5f96d8e0f6f65b7b32
+  size: 81
   hash: md5
   path: metrics.json
 
 meta:
-  version: v0.1
+  version: v2.0
   date: 25/11/2025
